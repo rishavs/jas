@@ -8,6 +8,7 @@ JAS has the following key philosohies;
 2. Tries to match Express.js api
 3. First class support for Typescript
 4. Full compatibility with express middlewares and other key libraries
-5. Compatibility with other nodejs libraries
-6. Package and dependency management using npm
-7. Provides 3 deployment paths - docker, single binary, just-js project
+5. Compatibility with some select nodejs libraries
+6. Package, dependency management and running/build using npm
+7. Basic project template using npx
+8. Provides 2 deployment paths - docker, single binary
