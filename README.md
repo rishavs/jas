@@ -1,3 +1,5 @@
+[![Discord](https://img.shields.io/discord/984405642091585536?label=Discord&logo=Discord)](https://discord.gg/Md4uJEkK)
+
 # JAS (Just Add Sugar!) Web Framework
 The “Just Add Sugar" framework is a simple web framework built on top of just-js
 
