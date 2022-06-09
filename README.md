@@ -12,3 +12,7 @@ JAS has the following key aspects;
 6. Package, dependency management and running/build using npm
 7. Basic project template using npx
 8. Provides 2 deployment paths - docker, single binary
+
+Goals:
+1:1 api parity with express
+a user should be able to use any reasonable Express project and just use it in JAS without any code changes and enjoy the masive speed/load bearing improvements.
