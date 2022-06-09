@@ -1,9 +1,9 @@
 # JAS (Just Add Sugar!) Web Framework
 The “Just Add Sugar" framework is a simple web framework built on top of just-js
 
-Note: This is a a project which was just started and isn't even in alpha yet.
+Note: This is a a project which was just started and is still in ideation phase.
 
-JAS has the following key philosohies;
+JAS has the following key aspects;
 1. Built on top of just-js
 2. Tries to match Express.js api
 3. First class support for Typescript
